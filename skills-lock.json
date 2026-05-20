@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "find-funding-opportunities": {
+      "source": "show-karma/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-funding-opportunities/SKILL.md",
+      "computedHash": "3a74a8b144baf484def897ab8cde0fbcca7b5ae2d7041c2668758f44923fc655"
+    }
+  }
+}
